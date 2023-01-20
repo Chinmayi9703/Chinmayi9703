@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chinmayi9703
-- 👀 I’m interested in ...Coding and Debugging C programs
-- 🌱 I’m currently learning ... C language
+- 👀 I’m interested in ...Coding and Debugging C/C++, Java, Python programs
+- 🌱 I’m currently learning ... Full-Stack Web Development
 - 💞️ I’m looking to collaborate on ...Open source projects 
 - 📫 How to reach me ...My Email id is : rjchinmayi@gmail.com
 
