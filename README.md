@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chinmayi9703
-- 👀 I’m interested in ...Coding and Debugging C/C++, Java, Python programs
+- 👀 I’m interested in ...C/C++, Java, Python and I am currently beginning my journey in Cybersecurity domain
 - 🌱 I’m currently learning ... Full-Stack Web Development
 - 💞️ I’m looking to collaborate on ...Open source projects 
 - 📫 How to reach me ...My Email id is : rjchinmayi@gmail.com
